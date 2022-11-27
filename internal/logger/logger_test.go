@@ -2,7 +2,6 @@ package logger
 
 import (
 	"bufio"
-
 	"os"
 	"testing"
 
